@@ -1,0 +1,16 @@
+{
+  "name": "Thamer Smiri — Portfolio",
+  "short_name": "Thamer Smiri",
+  "description": "Mathematics & Computer Science student portfolio",
+  "start_url": "../index.html",
+  "display": "standalone",
+  "background_color": "#080b14",
+  "theme_color": "#080b14",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
